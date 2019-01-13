@@ -1,5 +1,9 @@
 ---
 main:
+- weight: 3
+  title: About
+- weight: 2
+  title: Members
 - identifier: home
   url: "/"
   weight: 1
